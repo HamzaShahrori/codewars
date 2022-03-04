@@ -1,4 +1,4 @@
-# codewars
+<h3 align="center"># codewars</h3>
 
 <p align="center">
   <a href="" rel="noopener">
